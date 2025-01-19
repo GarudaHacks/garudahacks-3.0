@@ -1,1 +1,1 @@
-# Garuda Hacks Website
+# Garuda Hacks 3.0 Website
